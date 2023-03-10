@@ -1,6 +1,9 @@
 Address Book: Classmates
 Name: Rajiv, Email: rj45@gmail.com, Phone Number: 999-456-7890, City: Bluru, State: KN
 Name: Dnyaneshwar, Email: dn46@gmail.com, Phone Number: 999-567-8901, City: Pune, State: MH
+Name: Prasant, Email: pra313@gmail.com, Phone Number: 999-323-2334, City: Chennai, State: TN
+Name: Hari, Email: har344@gmail.com, Phone Number: 999-234-1312, City: Chennai, State: TN
+Name: Deepti, Email: ded32@gmail.com, Phone Number: 999-321-1231, City: Chennai, State: TN
 Address Book: Family
 Name: Rajiv, Email: rj45@gmail.com, Phone Number: 999-456-7890, City: Bluru, State: KN
 Name: Rishi, Email: rs23@gmail.com, Phone Number: 999-890-1234, City: Bluru, State: KN

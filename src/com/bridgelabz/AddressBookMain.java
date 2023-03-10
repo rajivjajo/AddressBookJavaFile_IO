@@ -13,6 +13,9 @@ public class AddressBookMain {
         AddressBook addressBook1 = new AddressBook("Classmates");
         addressBook1.addContact(new Contact("Rajiv", "rj45@gmail.com", "999-456-7890", "Bluru", "KN"));
         addressBook1.addContact(new Contact("Dnyaneshwar", "dn46@gmail.com", "999-567-8901", "Pune", "MH"));
+        addressBook1.addContact((new Contact("Prasant","pra313@gmail.com","999-323-2334","Chennai","TN")));
+        addressBook1.addContact((new Contact("Hari","har344@gmail.com","999-234-1312","Chennai","TN")));
+        addressBook1.addContact((new Contact("Deepti","ded32@gmail.com","999-321-1231","Chennai","TN")));
 
         AddressBook addressBook2 = new AddressBook("Family");
         addressBook2.addContact(new Contact("Rajiv", "rj45@gmail.com", "999-456-7890", "Bluru", "KN"));
